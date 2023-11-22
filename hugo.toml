@@ -1,0 +1,26 @@
+baseURL = 'https://praveenmaurya09.github.io/praveenmaurya.github.io'
+languageCode = 'en-us'
+title = 'praveen.m'
+theme = 'paper'
+
+
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/posts/"
+    weight = 0
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = 0
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    title = "Contact"
+    url = "/contact/"
+    weight = 0
