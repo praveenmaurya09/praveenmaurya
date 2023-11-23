@@ -58,4 +58,4 @@ Feel free to reach out to me through [Email](mailto:mauryapraveenji@gmail.com) o
 
 Thank you for visiting my website! I hope you find the content interesting and valuable. If you have any questions or just want to say hi, don't hesitate to get in touch.
 
-Happy exploring! 🚀
+Happy exploring! 🚀🚀🚀
