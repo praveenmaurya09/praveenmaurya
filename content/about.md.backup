@@ -1,5 +1,5 @@
 +++
-title = 'About Me'
+title = 'About'
 description = 'Praveen Maurya, a flutter developer & freelancer'
 date = 2023-11-22T23:40:26+05:30
 aliases = ["about-us", "about-hugo", "contact"]
@@ -7,6 +7,8 @@ author = "Praveen Maurya"
 +++
 
 ।। यत् गच्छति तत् न कालः जीवनम् ।।
+
+# About Me
 
 🙏 नमस्ते (Namaste), I'm Praveen Maurya, a passionate flutter developer and freelancer based in Surat, Gujarat, India. Welcome to my corner of the internet! Here's a little bit about me:
 
@@ -28,7 +30,6 @@ I have a background in **flutter development** & **virtual assistance**. My jour
 I graduated from Dr. A.P.J abdul Kalam Technical University with a degree in Electronics and Communication Engineering. My academic journey equipped me with a strong foundation in business communications and system and network administration.
 
 ## Work Experience
-
 
 | **Company**                | **Role**                               | **Duration**          | **Responsibilities and Achievements**                                                                                                    |
 | -------------------------- | ---------------------------------------| ----------------------| ---------------------------------------------------------------------------------------------------------------------------------------- |
