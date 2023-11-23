@@ -28,15 +28,15 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/praveenmaurya09) for p
 
 Explore my projects and contributions on [GitHub](https://github.com/praveenmaurya09).
 
-<!-- ## 🐦 Twitter -->
+## 🐦 Twitter -->
 
-<!-- Follow me on Twitter [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) for updates and musings. -->
+Follow me on Twitter [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) for updates and musings.
 
-<!-- ## 📝 Message Form
+## 📝 Message Form
 
 If you prefer, use the form below to send me a message:
 
-{{< form-contact >}} -->
+{{< form-contact >}}
 
 Looking forward to hearing from you! 🌟
 
