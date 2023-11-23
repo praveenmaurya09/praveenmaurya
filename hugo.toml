@@ -2,28 +2,40 @@ baseURL = 'https://praveenmaurya09.github.io/praveenmaurya'
 languageCode = 'en-us'
 title = 'praveen.m'
 theme = 'paper'
+author = 'Praveen Maurya'
+paginate = 8
+DefaultConentLanguage = 'en'
+
+
+[params]
+  color = 'linen'
+
+  github = 'praveenmaurya09'
+  instagram = 'praveenmaurya09'
+
+  avatar = 'mauryapraveenji@gmail.com'
+  name = 'Praveen'
+  bio = 'Life should be interesting'
 
 
 
 [menu]
+
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    title = "Posts"
-    url = "/posts/"
-    weight = 0
+    identifier = "blogs"
+    name = "Blogs"
+    url = "/blogs/"
+    weight = 10
   [[menu.main]]
     identifier = "about"
     name = "About"
-    title = "About"
     url = "/about/"
-    weight = 0
+    weight = 10
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
-    title = "Contact"
     url = "/contact/"
-    weight = 0
+    weight = 3
 
 
 [privacy]
@@ -44,3 +56,14 @@ theme = 'paper'
   [privacy.youtube]
     disabled = false
     privacyEnhanced = true
+
+
+[services]
+
+  [services.instagram]
+    disabledInlineCSS = true
+
+  [services.github]
+    disabledInlineCSS = true
+
+
