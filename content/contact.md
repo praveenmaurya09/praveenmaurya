@@ -2,7 +2,7 @@
 title = "Contact"
 description = "Praveen Maurya, contact me."
 date = "2023-11-22"
-aliases = ["contact"]
+aliases = ["about-us", "about-hugo", "contact"]
 author = "Praveen Maurya"
 +++
 
