@@ -1,32 +1,61 @@
 +++
 title = 'About'
+description = 'Praveen Maurya, a flutter developer & freelancer'
 date = 2023-11-22T23:40:26+05:30
 aliases = ["about-us", "about-hugo", "contact"]
-author = "ravrya"
+author = "Praveen Maurya"
 +++
 
-+++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "lee.so"
-+++
+।। यत् गच्छति तत् न कालः जीवनम् ।।
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+# About Me
 
-Hugo makes use of a variety of open source projects including:
+🙏 नमस्ते (Namaste), I'm Praveen Maurya, a passionate flutter developer and freelancer based in Surat, Gujarat, India. Welcome to my corner of the internet! Here's a little bit about me:
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+## Background
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I have a background in **flutter development** & **virtual assistance**. My journey in this field began 1 years ago, and it has been an exhilarating ride. while working as virtual assistant I was tasked with documenting a Flutter app and websites, that sparks the interest of learing flutter. The experience of working with flutter has not only sharpened my technical skills but has also fueled my passion for creating applications that transcend platform boundaries.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## Skills
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+- **Programming Languages:** Dart, 
+- **Frameworks:** Flutter, Hugo
+- **State Management:** Provider, Bloc
+- **Technologies:** Version control(Git), REST APIs, Firebase, Model-View-Controller(MVC),
+- **IT Skills:** Virtual Assistance, Administrative Assistance, Tech. Support 
+- **Interests:** Flutter, Music, Sanskrit
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Education
+
+I graduated from Dr. A.P.J abdul Kalam Technical University with a degree in Electronics and Communication Engineering. My academic journey equipped me with a strong foundation in business communications and system and network administration.
+
+## Work Experience
+
+| **Company**                | **Role**                               | **Duration**          | **Responsibilities and Achievements**                                                                                                    |
+| -------------------------- | ---------------------------------------| ----------------------| ---------------------------------------------------------------------------------------------------------------------------------------- |
+| *VA Mantra*                | *Flutter Developer Trainee*            | *Feb 2023 - Sep 2023* | *Collaborated with senior developers to gain hands-on experience in building Flutter applications.*                                      |
+|                            |                                        |                       | *Assisted in the design and development of responsive, cross-platform mobile apps.*                                                      |
+|                            |                                        |                       | *Contributed to the integration of RESTful APIs for real-time data retrieval.*                                                           |
+|                            |                                        |                       | *Actively participated in debugging and issue resolution, enhancing app performance*                                                        |
+
+| *VA Mantra*                | *Virtual Assistant Specialist*         | *Apr 2021 - Jan 2023* | *Provided virtual assistance services, managing schedules, organizing data, and enhancing overall productivity for clients.*             |
+|                            |                                        |                       | *Developed automated scripts to streamline repetitive tasks, significantly reducing manual workload.*                                    |
+
+*Current Position or Project details can be added here.*
+
+
+## Open Source Contributions
+
+I'm also passionate about contributing to open source projects. You can find some of my work on my GitHub profile: [GitHub](https://github.com/praveenmaurya09).
+
+## Blogging
+
+In my free time, I enjoy sharing my knowledge and experiences through writing. You can find some of my articles on [Blog](https://praveenmaurya.in/blogs/.
+
+## Contact
+
+Feel free to reach out to me through [Email](mailto:mauryapraveenji@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/praveenmaurya09).
+
+Thank you for visiting my website! I hope you find the content interesting and valuable. If you have any questions or just want to say hi, don't hesitate to get in touch.
+
+Happy exploring! 🚀

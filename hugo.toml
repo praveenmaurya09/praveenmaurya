@@ -35,7 +35,7 @@ DefaultConentLanguage = 'en'
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 3
+    weight = 10
 
 
 [privacy]
