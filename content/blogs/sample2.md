@@ -37,3 +37,4 @@ Once Flutter is installed, create a new Flutter project with the following comma
 ```bash
 flutter create my_flutter_app
 cd my_flutter_app
+```

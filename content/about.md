@@ -25,23 +25,21 @@ I have a background in **flutter development** & **virtual assistance**. My jour
 
 ## Education
 
-I graduated from Dr. A.P.J abdul Kalam Technical University with a degree in Electronics and Communication Engineering. My academic journey equipped me with a strong foundation in business communications and system and network administration.
+I graduated from Dr. A.P.J Abdul Kalam Technical University with a degree in Electronics and Communication Engineering. My academic journey equipped me with a strong foundation in business communications and system and network administration.
 
 ## Work Experience
 
-
-| **Company**                | **Role**                               | **Duration**          | **Responsibilities and Achievements**                                                                                                    |
-| -------------------------- | ---------------------------------------| ----------------------| ---------------------------------------------------------------------------------------------------------------------------------------- |
-| *VA Mantra*                | *Flutter Developer Trainee*            | *Feb 2023 - Sep 2023* | *Collaborated with senior developers to gain hands-on experience in building Flutter applications.*                                      |
-|                            |                                        |                       | *Assisted in the design and development of responsive, cross-platform mobile apps.*                                                      |
-|                            |                                        |                       | *Contributed to the integration of RESTful APIs for real-time data retrieval.*                                                           |
-|                            |                                        |                       | *Actively participated in debugging and issue resolution, enhancing app performance*                                                     |
-|                            |                                        |                       |                                                                                                                                          |
-| *VA Mantra*                | *Virtual Assistant Specialist*         | *Apr 2021 - Jan 2023* | *Provided virtual assistance services, managing schedules, organizing data, and enhancing overall productivity for clients.*             |
-|                            |                                        |                       | *Developed automated scripts to streamline repetitive tasks, significantly reducing manual workload.*                                    |
+| **Company** | **Role**                       | **Duration**          | **Responsibilities and Achievements**                                                                                        |
+| ----------- | ------------------------------ | --------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| *VA Mantra* | *Flutter Developer Trainee*    | *Feb 2023 - Sep 2023* | *Collaborated with senior developers to gain hands-on experience in building Flutter applications.*                          |
+|             |                                |                       | *Assisted in the design and development of responsive, cross-platform mobile apps.*                                          |
+|             |                                |                       | *Contributed to the integration of RESTful APIs for real-time data retrieval.*                                               |
+|             |                                |                       | *Actively participated in debugging and issue resolution, enhancing app performance*                                         |
+|             |                                |                       |                                                                                                                              |
+| *VA Mantra* | *Virtual Assistant Specialist* | *Apr 2021 - Jan 2023* | *Provided virtual assistance services, managing schedules, organizing data, and enhancing overall productivity for clients.* |
+|             |                                |                       | *Developed automated scripts to streamline repetitive tasks, significantly reducing manual workload.*                        |
 
 *Current Position or Project details can be added here.*
-
 
 ## Open Source Contributions
 

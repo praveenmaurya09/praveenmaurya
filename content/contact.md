@@ -21,4 +21,3 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/praveenmaurya09) for p
 Explore my projects and contributions on [GitHub](https://github.com/praveenmaurya09).
 
 Looking forward to hearing from you! 🌟
-
