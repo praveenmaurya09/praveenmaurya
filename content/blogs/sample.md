@@ -1,6 +1,7 @@
 +++
 title = 'Sample'
 date = 2023-11-22T23:35:28+05:30
+draft: false
 +++
 
 What is Lorem Ipsum?

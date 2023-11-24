@@ -1,9 +1,9 @@
 ---
 title: "Unlocking Cross-Platform Magic with Flutter"
 date: 2023-11-23T12:00:00+00:00
-draft: false
-author: "Your Name"
 tags: ["Flutter", "Mobile Development", "Cross-Platform"]
+author: "Your Name"
+draft: false
 ---
 
 # Unlocking Cross-Platform Magic with Flutter

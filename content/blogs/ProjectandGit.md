@@ -6,12 +6,10 @@ tags = ['Development', 'Git', 'Project', 'Blog']
 author = "Praveen Maurya"
 +++
 
-Project and Git
 
+## Your Beginner's Guide to Starting a Git Repository
 
 ![](/images/ProjectandGit/GitBlog.jpg)
-
-**Your Beginner's Guide to Starting a Git Repository**
 
 Are you new to the world of coding and collaboration, wondering how developers manage and share their work effectively? Git, a powerful version control system, is the solution. This blog will walk you through the process of setting up your very first Git repository. We'll explain each step clearly so even a complete beginner can understand. Plus, we'll demystify the .gitignore file and its importance.
 
