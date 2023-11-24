@@ -1,10 +1,10 @@
----
++++
 title = 'Unlocking Cross-Platform Magic with Flutter'
 date = 2023-11-23T12:00:00+00:00
 tags = ['Flutter', 'Mobile Development', 'Cross-Platform']
 author = 'Praveen Maurya'
 draft = false
----
++++
 
 # Unlocking Cross-Platform Magic with Flutter
 
