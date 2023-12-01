@@ -3,7 +3,7 @@ title = 'Flutter Interview Questions'
 date = 2023-11-23T12:00:00+00:00
 tags = ['Development', 'Flutter', 'Dart', 'Blog', 'Web']
 author = "Praveen Maurya"
-draft = true
+draft = false
 +++
 
 ### Basic Flutter interview questions and answers
