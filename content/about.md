@@ -39,7 +39,7 @@ I graduated from Dr. A.P.J Abdul Kalam Technical University with a degree in Ele
 | *VA Mantra* | *Virtual Assistant Specialist* | *Apr 2021 - Jan 2023* | *Provided virtual assistance services, managing schedules, organizing data, and enhancing overall productivity for clients.* |
 |             |                                |                       | *Developed automated scripts to streamline repetitive tasks, significantly reducing manual workload.*                        |
 
-*Current Position or Project details can be added here.*
+<!-- *Current Position or Project details can be added here.* -->
 
 ## Open Source Contributions
 
