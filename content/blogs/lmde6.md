@@ -5,7 +5,7 @@ draft = false
 tags = ['Linux', 'Debian', 'LMDE 6']
 +++
 
-## Introduction:
+## Introduction
 
 ![](/images/LMDE/lmde-6.png)
 
@@ -38,4 +38,3 @@ Linux Mint Debian Edition "Faye" is a compelling choice for users seeking a stab
 ### Download Link
 
 [LMDE 6](https://linuxmint.com/download_lmde.php)
-[Release Notes](https://linuxmint.com/rel_faye.php)
