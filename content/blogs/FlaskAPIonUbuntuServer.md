@@ -23,15 +23,15 @@ Before we begin, make sure you have the following:
 ### Step-1: Update and Upgrade the System
 
 Ensure your system is up-to-date by running the flowwing commands:
-	```
+```
 		sudo apt update
 		sudo apt upgarde
-	```
+```
 
 Make sure to create a directory before creating the virtual environment. When you will login on the server the default struture will be empty. make a directory using the following commands:
-	```
+```
 	mkdir zero(projectName)
-	```
+```
 Now  all the action ralated to Project **zero** will be performend inside if the zero directory.
 
 Note: zero is the project name.
@@ -40,12 +40,12 @@ Note: zero is the project name.
 ###  Step-2: Install Required Packages:
 
 Install necessary packages for running Flask and serving your API:
-	```
+```
 	sudo apt install python3-pip
 	sudo apt install python3-virtualenv
 	virtualenv zero_venv
 	source zero_venv/bin/activate
-	```
+```
 
 ![](/images/FlaskAPI/FlaskAPI_venv.png)
 
@@ -55,9 +55,9 @@ source zero_venv/bin/activate:
 	- This command is use to enable or activate our virtual environment for deactivating you can use command deactivate.
 
 Now install the Flask inside the virtual environment using the following commands:
-	```
+```
 	pip install Flask
-	```
+```
 
 ![](/images/FlaskAPI/Flask.png)
 
