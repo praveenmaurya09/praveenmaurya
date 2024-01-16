@@ -1,6 +1,6 @@
 +++
 title = 'Deploying Python Flask API on Ubuntu Server: A Step-by-Step Guide'
-date = 2024-16-03T10:57:45+05:30
+date = 2024-01-16T10:57:45+05:30
 draft = false
 tags = ['Python', 'Flask', 'Server', 'Deployement', 'Ubuntu']
 author = "Praveen Maurya"
