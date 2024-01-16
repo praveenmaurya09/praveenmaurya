@@ -24,8 +24,8 @@ Before we begin, make sure you have the following:
 
 Ensure your system is up-to-date by running the flowwing commands:
 ```
-		sudo apt update
-		sudo apt upgarde
+	sudo apt update
+	sudo apt upgarde
 ```
 
 Make sure to create a directory before creating the virtual environment. When you will login on the server the default struture will be empty. make a directory using the following commands:
