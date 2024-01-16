@@ -8,7 +8,7 @@ author = "Praveen Maurya"
 
 ## Introduction
 
-![](/images/LMDE/lmde-6.png)
+![](/images/FlaskAPI/flask.api.png)
 
 Python's Flask framework is a popular choice for building web applications and APIs due to its simplicity and flexibility.In this blog, I'll guide you through the process of deploying a Python Flask API on an ubuntu server. Your server provider may be different but the process of API deployment will be same in 90% cases. By the end of this blog, you'll have a fully functional Flask API accessible over the internet.
 
@@ -68,48 +68,48 @@ On different service provider the configuration of port differs, but it will be 
 **Port Configuration on oracle server**
 
 For enabling the Port on the oracle we have to use the following commands:
-	```
+```
 	sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 8000 -j ACCEPT
 	sudo iptables -I INPUT 6 -m state --state NEW -p udp --dport 8000 -j ACCEPT
 	sudo netfilter-persistent save
-	```		
+```		
 
 **Port Configuration UFW**
 
 Step-1: Chacek the IPv6 If No the change it to yes
-	```
+```
 	sudo nano /etc/default/ufw
-	```
+```
 
 ![](/images/FlaskAPI/ufw.png)
 
 Step-2: Setting up default Policies
-	```
+```
 	sudo ufw default deny incoming
 	sudo ufw default allow outgoing
-	```
+```
 Step-3 Enable the UFW
-	```
+```
 	sudo ufw enable
-	```
+```
 
 Step-4 Allowing ssh coonection and Port
-	```
+```
 	sudo ufw allow ssh
 	or
 	sudo ufw allow 22
 	or
 	sudo ufw allow 2222
-	```
+```
 
 Allowing the Ports
-	```
+```
 	sudo ufw allow 8000/tcp
 	sudo ufw allow 8000/udp
 	or 
 	sudo ufw allow 8000:8007/tcp
 	sudo ufw allow 8000:8007/udp
-	```
+```
 
 ### Step-4: Create Flask App
 
@@ -122,14 +122,14 @@ Create a simple Flask app (e.g., app.py):
 ### Step-5: Gunicorn setup and automation 
 
 Installing Gunicorn(a production-ready WSGI server):
-	```
+```
 	pip install gunicorn
-	```
+```
 
 Run Flask App Locally - Test your Flask app locally to ensure it works.
-	```
+```
 	gunicorn -w 4 -b 0.0.0.0:8000 app:app
-	```
+```
 
 Visit http://your_server_ip:8000 in your browser to see the "Flask API Live!" message.
 see the below screenshot.
@@ -142,13 +142,13 @@ Ensuring the continuous availability of our Flask API even after exiting the vir
 
 **Create a Gunicorn systemd service file**
 
-	```
+```
 	sudo touch /etc/systemd/system/zero.service
 	sudo nano /etc/systemd/system/zero.service
-	``` 
+``` 
 
 Now update the file with the following code:
-	```
+```
 	[Unit]
 	Description=Gunicorn instance to serve your Flask API
 	After=network.target
@@ -161,7 +161,7 @@ Now update the file with the following code:
 	Restart=always
 	[Install]
 	WantedBy=multi-user.target
-	```	
+```	
 
 User:
 	- e.g: User=ubuntu
@@ -176,20 +176,20 @@ ExecStart:
 
 
 Note: Make sure to change the user owner permission and execuation permission
-	```
+```
 	sudo chown ubuntu zero.service
 	sudo chmod 777 zero.service
-	```
+```
 
 
 Reload systemd and start your Gunicorn Service:
 
-	```
+```
 	sudo systemctl daemon-reload
 	sudo systemctl start zero
 	sudo systemctl enable zero
 	sudo systemctl status zero
-	```
+```
 
 
 ## Conclusion
