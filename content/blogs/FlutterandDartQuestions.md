@@ -113,44 +113,44 @@ draft = false
     - **Huge community support:** If you want to reach a global audience, then Flutter is for you because it supports internationalization. With it, you can create an application that is available in multiple languages.
 
 12. **What is the lifecycle of a StatefulWidget?**
-   The lifecycle of a stateful widget in Flutter consits of sevral stages, each of which plays a crucial role in managing its state and UI.
+       - The lifecycle of a stateful widget in Flutter consits of sevral stages, each of which plays a crucial role in managing its state and UI.
 
-   **1. createState()**
+       **1. createState()**
 
-   - When flutter create a stateful widget, it’s called ‘createState()’ method, which is reponsible for creating the corresponding State object.
-   - This method is typically overridden to return an instance of class that extend‘State<StatefulWidget>’.
+       - When flutter create a stateful widget, it’s called ‘createState()’ method, which is reponsible for creating the corresponding State object.
+       - This method is typically overridden to return an instance of class that extend‘State<StatefulWidget>’.
 
-   **2. initState()**
+       **2. initState()**
 
-   - ‘initState()’ is called excatly once during the lifecycle of the State object and is used for initializing state that depends on the context.
-   - This is where you would perform tasks like initializing variables, subscribing to streams, or loading data from APIs.
+       - ‘initState()’ is called excatly once during the lifecycle of the State object and is used for initializing state that depends on the context.
+       - This is where you would perform tasks like initializing variables, subscribing to streams, or loading data from APIs.
 
-   **3. didChangeDependencies() (optional)**
+       **3. didChangeDependencies() (optional)**
 
-   - If the widget’s dependencies change (e.g., theme, localization), flutter calls the ‘didChangeDependencies()’ method.
-   - This method is called immediately after ‘initState()’ and can be overridden to handle changes to dependencies.
+       - If the widget’s dependencies change (e.g., theme, localization), flutter calls the ‘didChangeDependencies()’ method.
+       - This method is called immediately after ‘initState()’ and can be overridden to handle changes to dependencies.
 
-   **4. build()**
+       **4. build()**
 
-   - The ‘build()’ method is called whenever flutter needs to rebuild the UI of the Stateful widget.
-   - It returns a widget hierarchy that represents the UI of the widget based on the current state.
-   - ‘build()’ is called frequently, such as when the widget’s state changes, when the parent widget rebuilds, or when the device orientation changes.
+       - The ‘build()’ method is called whenever flutter needs to rebuild the UI of the Stateful widget.
+       - It returns a widget hierarchy that represents the UI of the widget based on the current state.
+       - ‘build()’ is called frequently, such as when the widget’s state changes, when the parent widget rebuilds, or when the device orientation changes.
 
-   **5. setState()**
+       **5. setState()**
 
-   - When the state of a Stateful widget changes, you call the ‘setState()’ method to trigger a rebuild of the widget’s UI.
-   - This method schedules a call of the ‘build()’ method and notifies flutter that the widget needs to be updated.
+       - When the state of a Stateful widget changes, you call the ‘setState()’ method to trigger a rebuild of the widget’s UI.
+       - This method schedules a call of the ‘build()’ method and notifies flutter that the widget needs to be updated.
 
-   **6. didUpdateWidget()**
+       **6. didUpdateWidget()**
 
-   - If the parent widget changes and causes the Stateful widget to rebuild, flutter calls the ‘didUpdateWidget()’ method.
-   - This method provides an opportunity to compare old and new widget configurations and perform any neccessary updates to the state.
+       - If the parent widget changes and causes the Stateful widget to rebuild, flutter calls the ‘didUpdateWidget()’ method.
+       - This method provides an opportunity to compare old and new widget configurations and perform any neccessary updates to the state.
 
-   **7. dispose()**
+       **7. dispose()**
 
-   - When a Stateful widget removed from the widget tree (e.g., when navigation to a different screen), Flutter calls the ‘dispose()’ method.
-   - ‘dispose()’ is called to release resources, unsubscribe from streams, or perform cleanup tasks.
-   - It is the last lifecycle method called on the State object.
+       - When a Stateful widget removed from the widget tree (e.g., when navigation to a different screen), Flutter calls the ‘dispose()’ method.
+       - ‘dispose()’ is called to release resources, unsubscribe from streams, or perform cleanup tasks.
+       - It is the last lifecycle method called on the State object.
 
 13. **What is the difference between Expanded and Flexible?**
     - Flexible takes the least space needed to fit in a child widget. On the other hand, expanded takes the rest of the size in the widget.
