@@ -31,7 +31,7 @@ I graduated from Dr. A.P.J Abdul Kalam Technical University with a degree in Ele
 
 | **Company** | **Role**                       | **Duration**          | **Responsibilities and Achievements**                                                                                        |
 | ----------- | ------------------------------ | --------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| *VA Mantra* | *Flutter Developer Trainee*    | *Feb 2023 - Sep 2023* | *Collaborated with senior developers to gain hands-on experience in building Flutter applications.*                          |
+| *VA Mantra* | *Jr. Flutter Developer*    | *Feb 2023 - Mar 2024* | *Collaborated with senior developers to gain hands-on experience in building Flutter applications.*                          |
 |             |                                |                       | *Assisted in the design and development of responsive, cross-platform mobile apps.*                                          |
 |             |                                |                       | *Contributed to the integration of RESTful APIs for real-time data retrieval.*                                               |
 |             |                                |                       | *Actively participated in debugging and issue resolution, enhancing app performance*                                         |
